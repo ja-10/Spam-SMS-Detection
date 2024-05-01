@@ -1,1 +1,2 @@
 # Spam-SMS-Detection
+A machine learning model which implements Count Vectorizer and Multinomial Naive Bayes Classifier to efficiently distinguish between legitimate and spam SMS messages.
