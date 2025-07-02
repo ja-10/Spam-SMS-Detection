@@ -1,2 +1,2 @@
 # Spam-SMS-Detection
-The project employs Count Vectorizer and Multinomial Naive Bayes Classifier to effectively differentiate between legitimate and spam SMS messages.
+A spam detection system using Count Vectorization and a Multinomial Naive Bayes Classifier for efficient, text-based SMS classification.
